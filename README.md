@@ -22,4 +22,4 @@ SolidWorks · Python · ROS 2 · Nav2 · OpenCV · MATLAB · Linux · Git · 3D 
 
 ### Contact
 
-genewoolim@gmail.com · [Project videos](https://youtube.com/playlist?list=PLaugXGKO4hx8)
+genewoolim@gmail.com · [Engineering portfolio (PDF)](https://drive.google.com/file/d/1EJOvxITbgpbRKeUydaeghOFMVVz5PuS7/view?usp=sharing) · [Project videos](https://youtube.com/playlist?list=PLaugXGKO4hx8)
